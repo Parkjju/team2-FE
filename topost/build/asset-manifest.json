@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e60354f6.css",
+    "main.js": "/static/js/main.c640f2aa.js",
+    "static/media/hufs_logo.png": "/static/media/hufs_logo.42c55965c50152c6dd1b.png",
+    "index.html": "/index.html",
+    "main.e60354f6.css.map": "/static/css/main.e60354f6.css.map",
+    "main.c640f2aa.js.map": "/static/js/main.c640f2aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e60354f6.css",
+    "static/js/main.c640f2aa.js"
+  ]
+}
